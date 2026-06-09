@@ -1,4 +1,5 @@
-# cpnDB
+<img width="1000" height="180" alt="cpndb-banner" src="https://github.com/user-attachments/assets/651eb56a-e7d1-41b3-a53c-7730659b5093" />
+
 Chaperonins are a diverse family of molecular chaperones present in the plastids, mitochondria, and cytoplasm of eukaryotes, bacteria and archaea. The family is divided into group I (CPN60, also known as Hsp60 or GroEL, found in bacteria, some archaea, mitochondria and plastids) and group II (CCT, TriC or thermosome, found in archaea and the eukaryotic cytoplasm). Group I chaperonin sequences have been employed as targets for detection and identification of organisms and microbiome studies since a 549-567 bp segment of the cpn60 coding region is a molecular barcode that can be amplified with universal PCR primers. Species level identification of bacteria can be achieved with as little as 150 bp of the cpn60 barcode (Vancuren & Hill, 2019). The goal of the **cpnDB** project is to provide a manually curated, taxonomically broad collection of chaperonin sequences.
 
 This repository contains cpn60 barcode sequence data along with tables of metadata for use in your workflows. 
