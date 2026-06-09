@@ -5,6 +5,7 @@ This repository contains cpn60 barcode sequence data along with tables of metada
 
 # Releases
 Current release is v13 (18,520 cpn60 reference barcode sequences)
+https://github.com/HillLabSask/cpnDB/releases/tag/v13
 
 # Citation
 Ren, Q. and Hill, J.E.* 2023. Rapid and accurate taxonomic classification of cpn60 amplicon sequence variants. ISME Communications, 3:77 doi.org/10.1038/s43705-023-00283-z
