@@ -1,0 +1,2 @@
+# cpnDB
+The chaperonin database
