@@ -16,7 +16,7 @@ Hill, J.E., Penny, S.L., Crowell, K.G., Goh, S.H. and Hemmingsen, S.M. 2004. cpn
 
 # More information
 
-If your goal is taxonomic assignment of microbiome data, you may want to check out the cpn60 Classifier: https://github.com/HillLabSask/cpn60-Classifier (Ren & Hill, 2023)
+If your goal is taxonomic assignment of microbiome data, you may want to check out the **cpn60 Classifier**: https://github.com/HillLabSask/cpn60-Classifier (Ren & Hill, 2023)
 
 Protocols for cpn60 barcode amplification can be found on the Hill Lab website: https://research-groups.usask.ca/hilllab/cpn60-barcode-sequencing.php
 
