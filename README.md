@@ -5,6 +5,11 @@ This repository contains cpn60 sequence data - both full length gene sequences a
 
 # Downloads
 
+`reference_nut` is FASTA formatted cpn60 barcode sequences (best option for most applications)
+
+
+`cpndb_nr` is a subset containing one representative of each genus-species
+
 
 
 # Citation
